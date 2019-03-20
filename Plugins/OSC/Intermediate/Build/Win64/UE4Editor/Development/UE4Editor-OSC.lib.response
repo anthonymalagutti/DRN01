@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OSC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\anthony\Documents\UE4_DRONE\DRN01\Plugins\OSC\Intermediate\Build\Win64\UE4Editor\Development\OSC\Module.OSC.cpp.obj"
+"C:\Users\anthony\Documents\UE4_DRONE\DRN01\Plugins\OSC\Intermediate\Build\Win64\UE4Editor\Development\OSC\Module.OSC.gen.cpp.obj"
+"C:\Program Files\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\OSC\PCLaunch.rc.res"
+"C:\Program Files\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\anthony\Documents\UE4_DRONE\DRN01\Plugins\OSC\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OSC.lib"
